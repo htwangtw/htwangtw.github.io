@@ -1,10 +1,4 @@
 main:
 
-  - title: "Research"
-    url: /research/
-
-  - title: "CV"
-    url: /cv/
-
-  - title: "Publications"
-    url: /publications/
+  - title: "Blog"
+    url: /blog/
