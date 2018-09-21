@@ -7,7 +7,7 @@ I am an early career neuroscientist at the University of York, UK, where I am co
 
 My current research concerns the patterns of funcitonal whole-brain neural hierarchy and its relationship with on-going thought and other high-level cognitive functions.  
 
-[For my publications, please see](https://scholar.google.co.uk/citations?user=91B7BbgAAAAJ&hl=en){:target="_blank"}
+[For my publications, please see Google Scholar](https://scholar.google.co.uk/citations?user=91B7BbgAAAAJ&hl=en){:target="_blank"}
 
 [Download my CV in PDF][1]
 
