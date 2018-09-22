@@ -7,7 +7,7 @@ I am an early career researcher at the University of York, UK, where I am comple
 [Prof Jonny Smallwood](https://twitter.com/the_mindwanders){:target="_blank"} and 
 [Prof Elizabeth Jefferies](https://scholar.google.co.uk/citations?user=9OBIArkAAAAJ&hl=en){:target="_blank"}. 
 
-My research interest involves the application of machine learning bridging neuroimaging measures and complex traits such as intellegence.    
+My research interest involves the application of machine learning bridging neuroimaging measures and complex traits such as intellegence. 
 My current research concerns the patterns of funcitonal whole-brain neural hierarchy and its relationship with on-going thought and other high-level cognitive functions with multivariate analysis, such as canonical correlation analysis and principle componenet analysis. 
 I hope to further examine the population level cognitive traits uncovered in large neuroscience datasets at individual level. 
 
