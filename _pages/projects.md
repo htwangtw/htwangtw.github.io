@@ -4,6 +4,7 @@ permalink: /projects/
 
 author_profile: false
 toc: true
+toc_label: "Topics"
 ---
 
 # Heterogeneity of ongoing thought
