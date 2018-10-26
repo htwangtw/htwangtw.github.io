@@ -5,7 +5,8 @@ permalink: /projects/
 author_profile: false
 toc: true
 ---
-## Heterogeneity of ongoing thought
+
+# Heterogeneity of ongoing thought
 My PhD thesis explored the patterns of functional whole-brain neural hierarchy and its relationship with ongoing thought and other high-level cognitive functions with sparse canonical correlation analysis.
 We identifies the differenet within network connectivity patterns within the default mode network related to different type of experience and are linked to unique functional outcome. 
 At the whole-brain level, the attention and perception related regions are pivioting system of directing cognitive resorces during ongoing experience.
@@ -16,12 +17,12 @@ I will also take a closer look to the contribution of the attention and visual s
 <!-- 
 ### Whole-brain functional profile
 
-### Embedded gradient
+## Embedded gradient
 
-### Sensory and attention system 
+## Sensory and attention system 
 -->
 
-## Reusable experiement framework with Psychopy
+# Reusable experiement framework with Psychopy
 
 
 I have been working on a reusable experiemnt framework based on Psychopy. 
