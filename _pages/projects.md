@@ -1,12 +1,11 @@
 ---
 layout: single
 permalink: /projects/
-
+title: Research topics
 author_profile: false
 toc: true
 toc_label: "Topics"
 ---
-# Research topics
 Here are the main ongoing projects.
 
 ## Heterogeneity of ongoing thought
