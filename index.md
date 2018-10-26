@@ -2,7 +2,6 @@
 layout: single
 author_profile: true
 ---
-
 **Who am I?**
 
 I am an early career researcher at the University of York, UK, where I am completing my PhD in neuroscience with 
@@ -10,6 +9,7 @@ I am an early career researcher at the University of York, UK, where I am comple
 [Prof Elizabeth Jefferies](https://scholar.google.co.uk/citations?user=9OBIArkAAAAJ&hl=en){:target="_blank"}. 
 
 **What do I do?**
+
 My research interest involves the application of machine learning bridging neuroimaging measures and complex traits such as intelligence. 
 My current research concerns the patterns of functional whole-brain neural hierarchy and its relationship with ongoing thought and other high-level cognitive functions with multivariate analysis, such as canonical correlation analysis and principal component analysis. I hope to further examine the population level cognitive traits uncovered in large neuroscience datasets at the individual level. 
 
