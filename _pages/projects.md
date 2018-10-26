@@ -4,8 +4,6 @@ permalink: /projects/
 
 author_profile: false
 
-toc: true
-toc_label: "Projects"
 ---
 # Research Projects
 ## Heterogeneity of ongoing thought
