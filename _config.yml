@@ -12,7 +12,7 @@
 
 # theme                  : "minimal-mistakes-jekyll"
 remote_theme           : "mmistakes/minimal-mistakes"
-minimal_mistakes_skin    : "air" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
+minimal_mistakes_skin    : "contrast" # "default" # "air", "aqua", "contrast", "dark", "dirt", "neon", "mint", "plum", "sunrise"
 
 # Site Settings
 locale                   : "en-GB"
@@ -105,7 +105,7 @@ author:
   bio              : "Neuroscience. Data science."
   location         : "York, UK"
   email            : "haoting.wang@york.ac.uk"
-  uri              :
+  uri              : "https://www.york.ac.uk/psychology/staff/postgrads/hw1012/" 
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
