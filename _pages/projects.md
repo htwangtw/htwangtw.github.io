@@ -1,10 +1,13 @@
 ---
 layout: single
 permalink: /projects/
-
+title: Research topics
 author_profile: false
 toc: true
+toc_label: "Topics"
 ---
+Here are the main ongoing projects.
+
 ## Heterogeneity of ongoing thought
 My PhD thesis explored the patterns of functional whole-brain neural hierarchy and its relationship with ongoing thought and other high-level cognitive functions with sparse canonical correlation analysis.
 We identifies the differenet within network connectivity patterns within the default mode network related to different type of experience and are linked to unique functional outcome. 

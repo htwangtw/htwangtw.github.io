@@ -1,14 +1,15 @@
 ---
 layout: single
 author_profile: true
+title: "Who am I?"
 ---
 
-# Who am I?
 
 I am a postdoctual researcher at the University of York, UK, working with 
 [Prof Jonny Smallwood](https://twitter.com/the_mindwanders){:target="_blank"}. 
 
 # What do I do?
+
 My research interest involves the application of machine learning bridging neuroimaging measures and complex traits such as intelligence. 
 My current research concerns the patterns of functional whole-brain neural hierarchy and its relationship with ongoing thought and other high-level cognitive functions. I specialise in multivariate analysis, such as variations of canonical correlation analysis and principal component analysis. I hope to further examine the population level cognitive traits uncovered in large neuroscience datasets at the individual level. 
 
