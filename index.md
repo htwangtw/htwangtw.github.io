@@ -1,10 +1,10 @@
 ---
 layout: single
 author_profile: true
-title: "Who am I?"
+title: " "
 ---
 
-
+# Who am I?
 I am a postdoctoral researcher at the University of York, UK, working with 
 [Prof Jonny Smallwood](https://twitter.com/the_mindwanders){:target="_blank"}. 
 
