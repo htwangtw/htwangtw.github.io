@@ -1,18 +1,9 @@
 ---
 layout: single
 author_profile: true
-title: "Who am I?"
 ---
 
-
-I am a postdoctoral researcher at the University of York, UK, working with 
-[Prof Jonny Smallwood](https://twitter.com/the_mindwanders){:target="_blank"}. 
-
-# What do I do?
-
-My research interest involves the application of machine learning bridging neuroimaging measures and complex traits such as intelligence and clinical diagnostics. 
-My current research concerns the patterns of functional whole-brain neural hierarchy and its relationship with ongoing thought and other high-level cognitive functions. I specialise in multivariate analysis, such as variations of canonical correlation analysis and principal component analysis. I hope to further examine the population level cognitive traits uncovered in large neuroscience datasets at the individual level. 
-
-I am a self-taught programmer and enjoy math. As a psychologist by training, I combine my interests in programming and game design with psychology to optimize experiment design and building a more reusable framework with PsychoPy for my lab. You can find my work on my [GitLab repository](https://vcs.ynic.york.ac.uk/hw1012/){:target="_blank"}. 
-
-In my free time, I enjoy video games, tabletop role-playing games, cooking, and olympic weightlifting.
+I am a postdoctoral researcher at Sackler Centre for Consciousness Science, University of Sussex, UK, working with 
+[Prof Hugo Critchley](https://www.bsms.ac.uk/about/contact-us/staff/professor-hugo-d-critchley.aspx){:target="_blank"} and [Prof Sarah Garfinkle](https://twitter.com/DrSFink){:target="_blank"}. 
+I completed my PhD at the University of York, UK, with [Prof Jonny Smallwood](https://twitter.com/the_mindwanders){:target="_blank"}. 
+My current research involves bridging fMRI and heart rate variabilty to understand cognitive function in psychiatric conditions. 

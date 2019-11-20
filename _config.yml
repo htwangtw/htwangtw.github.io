@@ -102,11 +102,11 @@ analytics:
 # Site Author
 author:
   name             : "Hao-Ting Wang"
-  avatar           : # path of avatar image, e.g. "/assets/images/bio-photo.jpg"
+  avatar           : "/assets/images/bio-photo.jpg"
   bio              : "Neuroscience. Data science."
-  location         : "York, UK"
-  email            : "haoting.wang@york.ac.uk"
-  uri              : "https://www.york.ac.uk/psychology/staff/postgrads/hw1012/" 
+  location         : "Sussex, UK"
+  email            : "H.Wang@bsms.ac.uk"
+  uri              :  
   home             : # null (default), "absolute or relative url to link to author home"
   bitbucket        :
   codepen          :
@@ -187,7 +187,7 @@ kramdown:
   entity_output: as_char
   toc_levels: 1..6
   smart_quotes: lsquo,rsquo,ldquo,rdquo
-  enable_coderay: false
+  enable_coderay: true
 
 
 # Sass/SCSS
