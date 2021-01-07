@@ -5,6 +5,9 @@ main:
 
   - title: "Publications"
     url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
-    
+
   - title: "About"
     url: /about/
+
+  - title: "Blog"
+    url: /blog/
