@@ -1,6 +1,6 @@
 AUTHOR = 'Hao-Ting Wang'
 SITENAME = 'Hao-Ting Wang'
-SITETITLE = 'Hao-Ting Wang'
+SITETITLE = 'Hao-Ting Wang // 王灝婷'
 SITESUBTITLE = 'Neuroscience, Neuroinformatics'
 SITEDESCRIPTION = "Hao-Ting's personal site."
 
