@@ -5,7 +5,7 @@ SITETITLE = 'Hao-Ting Wang'
 SITESUBTITLE = 'Neuroscience, Neuroinformatics'
 SITEDESCRIPTION = "Hao-Ting's personal site."
 
-SITEURL = ''
+SITEURL = 'https://htwangtw.github.io'
 SITELOGO = SITEURL + "/images/profile.png"
 
 THEME = "./themes/Flex"
