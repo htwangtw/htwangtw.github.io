@@ -13,15 +13,3 @@ jobs:
       env:
         GITHUB_TOKEN: ${{secrets.GITHUB_TOKEN}}
         GH_PAGES_CNAME: ${{secrets.DOMAIN_CNAME}}
-    # - name: Set up Python
-    #   uses: actions/setup-python@v1
-    #   with:
-    #     python-version: '3.8'
-
-    # - name: Install dependencies
-    #   run: pip install -r requirements.txt
-
-    # - name: Publish docs
-    #   run: |
-    #     git pull origin gh-pages
-    #     make github
