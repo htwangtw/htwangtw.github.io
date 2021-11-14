@@ -19,6 +19,6 @@ jobs:
       run: pip install -r requirements.txt
 
     - name: Publish docs
-      run:
+      run: |
         git pull origin gh-pages
         make github
