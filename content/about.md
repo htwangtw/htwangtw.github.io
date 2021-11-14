@@ -1,7 +1,6 @@
 ---
-author: Hao-Ting Wang
 title: About
-layout: page
+slug: about
 ---
 
 WIP

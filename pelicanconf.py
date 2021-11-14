@@ -1,17 +1,17 @@
 AUTHOR = 'Hao-Ting Wang'
 SITENAME = 'Hao-Ting Wang'
-
 SITETITLE = 'Hao-Ting Wang'
 SITESUBTITLE = 'Neuroscience, Neuroinformatics'
 SITEDESCRIPTION = "Hao-Ting's personal site."
 
-SITEURL = 'https://wanghaoting.com'
+SITEURL = ''
 SITELOGO = SITEURL + "/images/profile.png"
 
 THEME = "./themes/Flex"
 
 PATH = 'content'
-ARTICLE_PATHS = ['blog']
+PAGE_PATHS = ['']
+ARTICLE_PATHS = ['articles']
 ARTICLE_SAVE_AS = '{date:%Y}/{slug}.html'
 ARTICLE_URL = '{date:%Y}/{slug}.html'
 
@@ -27,22 +27,21 @@ AUTHOR_FEED_ATOM = None
 AUTHOR_FEED_RSS = None
 
 USE_FOLDER_AS_CATEGORY = False
-MAIN_MENU = False
+MAIN_MENU = True
 HOME_HIDE_TAGS = True
 
 # Blogroll
-LINKS = (
-    ("Archives", "/archives.html"),
-    ("Categories", "/categories.html"),
-    ("Tags", "/tags.html"),
-)
-
-# MENUITEMS = (
-#     ("About", "/pages/about.html"),
+# LINKS = (
 #     ("Archives", "/archives.html"),
 #     ("Categories", "/categories.html"),
 #     ("Tags", "/tags.html"),
 # )
+
+MENUITEMS = (
+    ("Archives", "/archives.html"),
+    ("Categories", "/categories.html"),
+    ("Tags", "/tags.html"),
+)
 
 # Social widget
 SOCIAL = (('twitter', 'https://twitter.com/HaoTingW713'),
