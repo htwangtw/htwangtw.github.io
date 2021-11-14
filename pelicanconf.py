@@ -32,9 +32,7 @@ HOME_HIDE_TAGS = True
 
 # Blogroll
 # LINKS = (
-#     ("Archives", "/archives.html"),
-#     ("Categories", "/categories.html"),
-#     ("Tags", "/tags.html"),
+#     ("CV", "https://wanghaoting.com/CV/cv.pdf"),
 # )
 
 MENUITEMS = (
