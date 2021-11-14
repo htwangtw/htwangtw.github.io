@@ -3,7 +3,7 @@
 # Edit at https://www.toptal.com/developers/gitignore?templates=python
 
 _old/
-output/
+
 
 ### Python ###
 # Byte-compiled / optimized / DLL files

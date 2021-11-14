@@ -1,0 +1,210 @@
+
+<!DOCTYPE html>
+<html lang="en">
+<head>
+  <meta charset="utf-8" />
+  <meta http-equiv="X-UA-Compatible" content="IE=edge" />
+  <meta name="HandheldFriendly" content="True" />
+  <meta name="viewport" content="width=device-width, initial-scale=1.0" />
+    <meta name="robots" content="" />
+
+  <link href="https://fonts.googleapis.com/css2?family=Source+Code+Pro:ital,wght@0,400;0,700;1,400&family=Source+Sans+Pro:ital,wght@0,300;0,400;0,700;1,400&display=swap" rel="stylesheet">
+
+    <link rel="stylesheet" type="text/css" href="https://wanghaoting.com/theme/stylesheet/style.min.css">
+
+
+    <link id="pygments-light-theme" rel="stylesheet" type="text/css"
+          href="https://wanghaoting.com/theme/pygments/github.min.css">
+
+
+  <link rel="stylesheet" type="text/css" href="https://wanghaoting.com/theme/font-awesome/css/fontawesome.css">
+  <link rel="stylesheet" type="text/css" href="https://wanghaoting.com/theme/font-awesome/css/brands.css">
+  <link rel="stylesheet" type="text/css" href="https://wanghaoting.com/theme/font-awesome/css/solid.css">
+
+
+    <link href="https://wanghaoting.com/feeds/all.atom.xml" type="application/atom+xml" rel="alternate" title="Hao-Ting Wang Atom">
+
+
+
+  
+
+
+ 
+
+<meta name="author" content="Hao-Ting Wang" />
+<meta name="description" content="Some notes to myself and people I work with. Target audience: People who wants to do code review but have no prior experience / don&#39;t know where to start. You who already have some code that needs help with. People with limited experience with git. People who don&#39;t have a clear …" />
+<meta name="keywords" content="software, collaborative">
+
+
+  <meta property="og:site_name" content="Hao-Ting Wang"/>
+  <meta property="og:title" content="Code review for newbies starter pack"/>
+  <meta property="og:description" content="Some notes to myself and people I work with. Target audience: People who wants to do code review but have no prior experience / don&#39;t know where to start. You who already have some code that needs help with. People with limited experience with git. People who don&#39;t have a clear …"/>
+  <meta property="og:locale" content="en_US"/>
+  <meta property="og:url" content="https://wanghaoting.com/2021/code-review-for-newbies-starter-pack.html"/>
+  <meta property="og:type" content="article"/>
+  <meta property="article:published_time" content="2021-01-07 00:00:00-05:00"/>
+  <meta property="article:modified_time" content=""/>
+  <meta property="article:author" content="https://wanghaoting.com/author/hao-ting-wang.html">
+  <meta property="article:section" content="notes"/>
+  <meta property="article:tag" content="software"/>
+  <meta property="article:tag" content="collaborative"/>
+  <meta property="og:image" content="https://wanghaoting.com/images/profile.png">
+
+  <title>Hao-Ting Wang &ndash; Code review for newbies starter pack</title>
+
+</head>
+<body class="light-theme">
+  <aside>
+    <div>
+      <a href="https://wanghaoting.com/">
+        <img src="https://wanghaoting.com/images/profile.png" alt="Hao-Ting Wang" title="Hao-Ting Wang">
+      </a>
+
+      <h1>
+        <a href="https://wanghaoting.com/">Hao-Ting Wang</a>
+      </h1>
+
+<p>Neuroscience, Neuroinformatics</p>
+
+      <nav>
+        <ul class="list">
+
+
+
+            <li>
+              <a target="_self" href="/archives.html" >Archives</a>
+            </li>
+            <li>
+              <a target="_self" href="/categories.html" >Categories</a>
+            </li>
+            <li>
+              <a target="_self" href="/tags.html" >Tags</a>
+            </li>
+        </ul>
+      </nav>
+
+      <ul class="social">
+          <li>
+            <a  class="sc-twitter" href="https://twitter.com/HaoTingW713" target="_blank">
+              <i class="fab fa-twitter"></i>
+            </a>
+          </li>
+          <li>
+            <a  class="sc-github" href="https://github.com/htwangtw" target="_blank">
+              <i class="fab fa-github"></i>
+            </a>
+          </li>
+          <li>
+            <a  class="sc-google" href="https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en" target="_blank">
+              <i class="fab fa-google"></i>
+            </a>
+          </li>
+      </ul>
+    </div>
+
+  </aside>
+  <main>
+
+
+<article class="single">
+  <header>
+      
+    <h1 id="code-review-for-newbies-starter-pack">Code review for newbies starter pack</h1>
+    <p>
+      Posted on Thu 07 January 2021 in <a href="https://wanghaoting.com/category/notes.html">notes</a>
+
+    </p>
+  </header>
+
+
+  <div>
+    <p>Some notes to myself and people I work with.</p>
+<h2>Target audience:</h2>
+<ul>
+<li>People who wants to do code review but have no prior experience / don't know where to start.</li>
+<li>You who already have some code that needs help with.</li>
+<li>People with limited experience with git.</li>
+<li>People who don't have a clear understanding with how to plan your project.</li>
+<li>People with a unstructured code base.</li>
+<li>You write "Okay", "update", "done" a lot in your commits.</li>
+</ul>
+<h2>Requirements:</h2>
+<ul>
+<li>A github account</li>
+<li>Existing code</li>
+</ul>
+<h2>Instructions for people who doesn't have a clue about where to start</h2>
+<ol>
+<li>If your code is not version controlled with git, initiate your project as a git repository and commit it to github. <a href="https://docs.github.com/en/free-pro-team@latest/github/importing-your-projects-to-github/adding-an-existing-project-to-github-using-the-command-line">See full instructions here.</a></li>
+<li>Create a new branch and give it a helpful name. For example <code>initial_review</code></li>
+<li>On this branch, add comments to places that you are unsure about.</li>
+<li>Commit these new changes with a useful commit message. Such as "flag up sections I need help with"</li>
+<li>Push this new branch to github</li>
+<li>Do a pull request from <code>initial_review</code> to main. Tag your friend to let them know you are ready to comment.</li>
+<li>From this point on you should be able to follow the <a href="https://github.com/features/code-review/">github code review tutorial</a></li>
+</ol>
+<h2>Guides for future code review</h2>
+<p>When doing code review in this scenrio, focus on the following points:
+1. How to better structure the code base
+2. How to isolate redundant code into reusable functions
+3. Commit changes frequently with useful commit messages. Think about how to describe the changes with some verbs suggested here:
+    - fix [something]
+    - update [something]
+    - add [something]
+    - remove [something]
+    - enhance [something]
+    - other useful action verbs
+If you cannot, you are probably not thinking about your code in a modular way.</p>
+<p>After the first round you should be able to find some idea to organise your code better. This means instead of updating a bunch of things in the code, the changes would focus on specific features.</p>
+<h2>As the Reviewees</h2>
+<p>When you ask a friend to do code review, they are doing you a favour. Try to write a summary of the changes that will help your friend understand what's going on.</p>
+  </div>
+  <div class="tag-cloud">
+    <p>
+      <a href="https://wanghaoting.com/tag/software.html">software</a>
+      <a href="https://wanghaoting.com/tag/collaborative.html">collaborative</a>
+    </p>
+  </div>
+
+
+
+
+
+</article>
+
+    <footer>
+<p>
+  &copy;   - This work is licensed under a <a rel="license" href="http://creativecommons.org/licenses/by-sa/4.0/deed.en_US" target="_blank">Creative Commons Attribution-ShareAlike 4.0 International License</a>
+</p>
+<p>
+Built with <a href="http://getpelican.com" target="_blank">Pelican</a> using <a href="http://bit.ly/flex-pelican" target="_blank">Flex</a> theme
+</p><p>
+  <a rel="license"
+     href="http://creativecommons.org/licenses/by-sa/4.0/"
+     target="_blank">
+    <img alt="Creative Commons License"
+         title="Creative Commons License"
+         style="border-width:0"
+           src="https://i.creativecommons.org/l/by-sa/4.0/80x15.png"
+         width="80"
+         height="15"/>
+  </a>
+</p>    </footer>
+  </main>
+
+
+
+
+<script type="application/ld+json">
+{
+  "@context" : "http://schema.org",
+  "@type" : "Blog",
+  "name": " Hao-Ting Wang ",
+  "url" : "https://wanghaoting.com",
+  "image": "https://wanghaoting.com/images/profile.png",
+  "description": "Hao-Ting's personal site."
+}
+</script>
+
+</body>
+</html>
