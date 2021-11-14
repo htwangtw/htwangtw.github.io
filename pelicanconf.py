@@ -1,7 +1,7 @@
 AUTHOR = 'Hao-Ting Wang'
 SITENAME = 'Hao-Ting Wang'
-SITETITLE = 'Hao-Ting Wang // 王灝婷'
-SITESUBTITLE = 'Neuroscience, Neuroinformatics'
+SITETITLE = 'Hao-Ting Wang'
+SITESUBTITLE = '王灝婷 | Neuroscience, Neuroinformatics'
 SITEDESCRIPTION = "Hao-Ting's personal site."
 
 SITEURL = 'https://wanghaoting.com'
