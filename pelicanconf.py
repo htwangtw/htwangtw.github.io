@@ -42,8 +42,7 @@ MENUITEMS = (
 )
 
 # Social widget
-SOCIAL = (('twitter', 'https://twitter.com/HaoTingW713'),
-          ('github', 'https://github.com/htwangtw'),
+SOCIAL = (('github', 'https://github.com/htwangtw'),
           ('google', 'https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en'))
 
 CC_LICENSE = {
