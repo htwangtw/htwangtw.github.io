@@ -1,0 +1,107 @@
+baseURL: "https://wanghaoting.com" 
+title: Hao-Ting Wang
+theme: PaperMod
+
+enableInlineShortcodes: true
+enableRobotsTXT: true
+pagination:
+  pagerSize: 20
+
+taxonomies:
+    tag: tags
+
+menu:
+    main:
+        - name: Home
+          url: /
+          weight: 0
+        - name: CV
+          url: https://wanghaoting.com/CV/cv.pdf
+          weight: 2
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
+          weight: 3
+        - name: About
+          url: about/
+          weight: 1
+
+params:
+    description: "This website hosts Hao-Ting Wang's research papers, books, course materials, data, curriculum vitae, and contact information."
+    author: Hao-Ting Wang
+    googleAnalyticsID: "UA-60731918-2"
+    DateFormat: "January 2006"
+    defaultTheme: light
+    hideFooter: false
+    disableThemeToggle: true
+    ShowShareButtons: false
+    ShowReadingTime: false
+    disableSpecial1stPost: true
+    disableAnchoredHeadings: true
+    ShowPostNavLinks: false
+    ShowBreadCrumbs: false
+    ShowCodeCopyButtons: true
+    ShowAllPagesInArchive: false
+    MainSections: ["about"]
+    ShowToc: false
+    disableScrollToTop: true
+    TocOpen: true
+    ShowWordCount: false
+    UseHugoToc: true
+    comments: false
+    math: true
+    profileMode:
+          enabled: true
+          title: Hao-Ting Wang
+          subtitle: "I am a postdoctoral researcher at CRIUGM, Montreal, Canada. My current research focuses on brain-based biomarker discovery through deep learning, data engineering in scientific research."
+          imageUrl: "image.png"
+          imageWidth: 160
+          imageHeight: 160
+          buttons:
+            - name: About
+              url: about/
+
+    socialIcons:
+        - name: CV
+          url: https://wanghaoting.com/CV/cv.pdf
+        - name: Email
+          url: mailto:haotingwang.research@protonmail.com
+        # - name: Zoom
+        #   url: https://www.zoom.us/my/igelfeld
+        # - name: Location
+        #   url: location/
+        # - name: Office Hours
+        #   url: officehours/
+        - name: Google Scholar
+          url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
+        - name: GitHub
+          url: https://github.com/htwangtw
+        # - name: Substack
+        #   url: https://pmichaillat.substack.com
+        # - name: YouTube
+        #   url: https://www.youtube.com/@pmichaillat
+        # - name: Twitter
+        #   url: https://x.com/pmichaillat
+        # - name: Bluesky
+        #   url: https://bsky.app/profile/pmichaillat.bsky.social
+
+    assets:
+        disableScrollBarStyle: true
+    cover:
+        hiddenInList: false
+        hiddenInSingle: true
+    label:
+      text: "Hao-Ting Wang"
+      icon: favicon.ico
+      iconHeight: 18
+
+markup:
+    goldmark:
+        renderer:
+            unsafe: true
+    highlight:
+        guessSyntax: true
+        style: autumn 
+    tableOfContents:
+        endLevel: 2
+        ordered: false
+        startLevel: 2
