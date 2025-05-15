@@ -39,7 +39,10 @@ It has accumulated 200+ citations since its publication in 2020.
 <!-- Following her doctoral studies, Hao-Ting secured a Sackler Research Fellowship at the Sackler Centre for Consciousness Science (now the Sussex Centre for Consciousness Science). 
 In this role, she investigated the correlation between brain activity and physiological signals. -->
 
-Currently, Hao-Ting serves as a postdoctoral researcher at Centre de recherche de l’institut universitaire de gériatrie de Montréal (CRIUGM). 
+Currently, Hao-Ting serves as a postdoctoral researcher at Centre de recherche de l’institut universitaire de gériatrie de Montréal (CRIUGM) in
+[laboratory for brain simulation and exploration (SIMEXP)](https://github.com/SIMEXP) 
+at [Montreal Geriatrics Institute (CRIUGM)](https://criugm.qc.ca/), 
+working with [Prof Lune Bellec](https://github.com/pbellec/).
 She received a fellowship from the Institut de valorisation des données (IVADO) in 2022 
 and subsequently the [Canadian Neuroanalytics Scholarship](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) in 2025
 to work on fMRI foundation model for biomarker discovery for neurodegeneration. 
