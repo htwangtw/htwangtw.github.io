@@ -18,15 +18,12 @@ menu:
         - name: CV
           url: https://wanghaoting.com/CV/cv.pdf
           weight: 2
-        - name: Google Scholar
-          url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
-          weight: 3
         - name: About
           url: about/
           weight: 1
 
 params:
-    description: "This website hosts Hao-Ting Wang's research papers, books, course materials, data, curriculum vitae, and contact information."
+    description: "This website hosts Hao-Ting Wang's research, curriculum vitae, and contact information."
     author: Hao-Ting Wang
     googleAnalyticsID: "UA-60731918-2"
     DateFormat: "January 2006"
@@ -41,7 +38,7 @@ params:
     ShowBreadCrumbs: false
     ShowCodeCopyButtons: true
     ShowAllPagesInArchive: false
-    MainSections: ["about"]
+    MainSections: ["bio"]
     ShowToc: false
     disableScrollToTop: true
     TocOpen: true
@@ -52,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Hao-Ting Wang
-          subtitle: "I am a postdoctoral researcher at CRIUGM, Montreal, Canada. My current research focuses on brain-based biomarker discovery through deep learning, data engineering in scientific research."
+          subtitle: "I am a [Canadian Neuroanalytics Scholars](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) at [CRIUGM](https://criugm.qc.ca/), Montreal, Canada. My current research situates on the intersection of neuroscience and AI, focusing on brain-based biomarker and cognitive neuroscience through neuroinformatics, machine learning, and AI."
           imageUrl: "image.png"
           imageWidth: 160
           imageHeight: 160
@@ -61,8 +58,6 @@ params:
               url: about/
 
     socialIcons:
-        - name: CV
-          url: https://wanghaoting.com/CV/cv.pdf
         - name: Email
           url: mailto:haotingwang.research@protonmail.com
         # - name: Zoom
@@ -75,6 +70,10 @@ params:
           url: https://scholar.google.com/citations?user=FrlzI8IAAAAJ&hl=en
         - name: GitHub
           url: https://github.com/htwangtw
+        - name: LinkedIn
+          url: https://www.linkedin.com/in/hao-ting-wang-73597145/
+        - name: CV
+          url: https://wanghaoting.com/CV/cv.pdf
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube
