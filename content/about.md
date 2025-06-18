@@ -54,4 +54,3 @@ As a core developer of Nilearn, a widely used neuroimaging machine learning libr
 she offers expertise in fMRI data processing utilities and guides the overall direction of the Nilearn community. 
 Additionally, she is a dedicated advocate for the BIDS ecosystem, actively developing software aligned with BIDS application standards.
 The effort leads to a fully reproducible [fMRI denoising benchmark](https://doi.org/10.55458/neurolibre.00012) using open datasets and BIDS-compliant software. 
-

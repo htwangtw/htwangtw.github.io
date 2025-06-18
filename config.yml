@@ -12,15 +12,15 @@ taxonomies:
 
 menu:
     main:
-        - name: Home
-          url: /
-          weight: 0
         - name: CV
           url: https://wanghaoting.com/CV/cv.pdf
-          weight: 2
+          weight: 0
         - name: About
           url: about/
           weight: 1
+        - name: Talks
+          url: talks/
+          weight: 2
 
 params:
     description: "This website hosts Hao-Ting Wang's research, curriculum vitae, and contact information."
@@ -56,6 +56,10 @@ params:
           buttons:
             - name: About
               url: about/
+            - name: Talks
+              url: talks/
+            - name: Academic CV
+              url: https://wanghaoting.com/CV/cv.pdf
 
     socialIcons:
         - name: Email
@@ -73,7 +77,7 @@ params:
         - name: LinkedIn
           url: https://www.linkedin.com/in/hao-ting-wang-73597145/
         - name: CV
-          url: https://wanghaoting.com/CV/cv.pdf
+          url: resume_haotingwang_1page.pdf
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube
