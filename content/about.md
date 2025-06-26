@@ -26,7 +26,7 @@ I am a recreational Olympic weightlifter affiliated with [Club d'haltérophilie 
 Longer speaker bio, see below:
 ---
 
-Last updated: 15 May 2025
+Last updated: 26 June 2025
 
 Hao-Ting Wang earned her Ph.D. in Cognitive Neuroscience and Neuroimaging from the University of York, United Kingdom, in 2019. 
 Under the guidance of Professors Jonathan Smallwood and Elizabeth Jefferies, 
