@@ -58,8 +58,8 @@ params:
               url: about/
             - name: Talks
               url: talks/
-            - name: Academic CV
-              url: https://wanghaoting.com/CV/cv.pdf
+            - name: Resume
+              url: resume_haotingwang_1page.pdf
 
     socialIcons:
         - name: Email
@@ -77,7 +77,7 @@ params:
         - name: LinkedIn
           url: https://www.linkedin.com/in/hao-ting-wang-73597145/
         - name: CV
-          url: resume_haotingwang_1page.pdf
+          url: https://wanghaoting.com/CV/cv.pdf
         # - name: Substack
         #   url: https://pmichaillat.substack.com
         # - name: YouTube
