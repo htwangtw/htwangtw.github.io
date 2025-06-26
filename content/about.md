@@ -42,11 +42,12 @@ In this role, she investigated the correlation between brain activity and physio
 Currently, Hao-Ting serves as a postdoctoral researcher at Centre de recherche de l’institut universitaire de gériatrie de Montréal (CRIUGM) in
 [laboratory for brain simulation and exploration (SIMEXP)](https://github.com/SIMEXP) 
 at [Montreal Geriatrics Institute (CRIUGM)](https://criugm.qc.ca/), 
-working with [Prof Lune Bellec](https://github.com/pbellec/).
+working with [Prof Lune Bellec](https://github.com/lunebellec/).
 She received a fellowship from the Institut de valorisation des données (IVADO) in 2022 
 and subsequently the [Canadian Neuroanalytics Scholarship](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) in 2025
 to work on fMRI foundation model for biomarker discovery for neurodegeneration. 
-She aims to create a foundation model of fMRI data with graph convolution networks (GCN) for biomarker discovery for neurodegenerative diseases. Her work integrates diverse clinical datasets to enhance clinical predictions and disease progression. 
+Her work integrates diverse clinical datasets to enhance clinical predictions and disease progression. 
+Currently she focuses on adopting fMRI foundation models with publically availibel weights for clinical datasets, and working towards a protocol of evaluating the foundation models performance based on downstream perfromance.
 
 The open-source tool is an anchor of her research. She contributes to developing technical standards within the Python ecosystem for neuroimaging research. 
 Her contributions include projects such as nibabel, Pydra, fMRIPrep, phys2bids, the Brain Imaging Data Structure (BIDS), and Nilearn. 
