@@ -1,6 +1,6 @@
 ---
-title: "Invited Talks and Educational workshops"
-date: 2025-05-15
+title: "Talks and Educational workshops"
+date: 2025-07-17
 hidemeta: true
 ---
 
@@ -17,15 +17,11 @@ If you’re interested in hearing me speaking at your institution, please contac
 
 ## Talks
 
-2025 Transdiagnostic markers for psychiatry through AI. Djavad Mowafaghian Centre for Brain Health, University of British Columbia, Vancouver, BD, Canada
-
 2025 Towards foundation models for cognitive neurosciences. Child Mind Institute, New York, USA.
 
 2024 Nilearn and big data facilitates transdiagnostics brain biomarkers. Symposim: Big Data in Psychiatry: Does It Solve the Reproducibility Problem? 2024 Society of Biological Psychiatry. Austin, TX, USA.
 
 2024 Continuous Evaluation of Denoising Strategies in fMRI Using fMRIPrep and Nilearn. COMPASS Neuro-AI seminar series.
-
-2024 Disentangling states and traits in brain signals with Neuro-AI. Univerisity of Glasgow. Glasgow, UK.
 
 2023 Continuous Evaluation of Denoising Strategies in fMRI Using fMRIPrep and Nilearn. Canadian Trainee Prize recipient talk. 5th Annual Neuro Open Science in Action Symposium. Montreal, QC, Canada.
 
