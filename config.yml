@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Hao-Ting Wang
-          subtitle: "I am a [Canadian Neuroanalytics Scholar](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) at [CRIUGM](https://criugm.qc.ca/), Montreal, Canada. My current research focuses on neuroinformatics, brain-based biomarkers and cognitive neuroscience."
+          subtitle: "I am a [Canadian Neuroanalytics Scholar](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) at [CRIUGM](https://criugm.qc.ca/), Montreal, Canada. My current research focuses on neuroinformatics, brain-based biomarkers, and cognitive neuroscience."
           imageUrl: "image.png"
           imageWidth: 160
           imageHeight: 160
