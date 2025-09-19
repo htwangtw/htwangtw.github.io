@@ -1,6 +1,6 @@
 ---
 title: "Hao-Ting Wang"
-date: 2025-05-14
+date: 2025-09-19
 hidemeta: true
 ---
 
@@ -18,15 +18,28 @@ My current research focuses on discovering brain connectivity-based biomarkers t
 I am passionate about data infrastructure and software engineering in the context of scientific research.
 You can find out more about my research and open-source contributions on my [GitHub Profile](https://github.com/htwangtw).
 
-When I am not doing research, I spend a lot of time in the kitchen, and I have a lot of opinions about groceries.
+When I am not doing research, I spend a lot of time in the kitchen and have a growing collection of knitted garments.
 I am a recreational Olympic weightlifter affiliated with [Club d'haltérophilie Les Géants de Montréal](https://geantsdemontreal.com/).
 
 ---
 
+More professional short speaker bio
+---
+
+Last updated: 2025-09-19
+
+Hao-Ting Wang is a Canadian Neuroanalytic Scholar based at the Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM), 
+where she works at the intersection of data science, neuroimaging, and psychiatry. 
+Her research focuses on using AI models on fMRI data to identify transdiagnostic biomarkers in neurodegenerative conditions. 
+She is a core developer of Nilearn, a widely used Python library for machine learning in neuroimaging. 
+She has contributed to large-scale neuroimaging preprocessing projects involving datasets of over 40,000 participants. 
+She is a recipient of the 2023 Neuro-Irv and Helga Cooper Open Science Prize. 
+In addition to her research, she is active in education and outreach, co-leading workshops for Brainhack School and the Montreal AI Neuroscience initiative, and is committed to fostering inclusivity in the open science community.
+
 Longer speaker bio, see below:
 ---
 
-Last updated: 26 June 2025
+Last updated: 2025-06-26
 
 Hao-Ting Wang earned her Ph.D. in Cognitive Neuroscience and Neuroimaging from the University of York, United Kingdom, in 2019. 
 Under the guidance of Professors Jonathan Smallwood and Elizabeth Jefferies, 
