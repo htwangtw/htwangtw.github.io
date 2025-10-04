@@ -1,11 +1,11 @@
 ---
-title: "Talks and Educational workshops"
+title: "Talks and Educational Workshops"
 date: 2025-07-17
 hidemeta: true
 ---
 
 
-If you’re interested in hearing me speaking at your institution, please contact me through [email](mailto:haotingwang.research@protonmail.com).
+If you’re interested in hearing me speak at your institution, please contact me through [email](mailto:haotingwang.research@protonmail.com).
 
 ---
 
@@ -17,15 +17,17 @@ If you’re interested in hearing me speaking at your institution, please contac
 
 ## Talks
 
+2025 Paving the way for brain-first biomarkers research for psychiatry. CRIUGM, Montreal, QC, Canada.
+
 2025 Towards foundation models for cognitive neurosciences. Child Mind Institute, New York, USA.
 
-2024 Nilearn and big data facilitates transdiagnostics brain biomarkers. Symposim: Big Data in Psychiatry: Does It Solve the Reproducibility Problem? 2024 Society of Biological Psychiatry. Austin, TX, USA.
+2024 Nilearn and big data facilitate transdiagnostic brain biomarkers. Symposium: Big Data in Psychiatry: Does It Solve the Reproducibility Problem? 2024 Society of Biological Psychiatry. Austin, TX, USA.
 
 2024 Continuous Evaluation of Denoising Strategies in fMRI Using fMRIPrep and Nilearn. COMPASS Neuro-AI seminar series.
 
 2023 Continuous Evaluation of Denoising Strategies in fMRI Using fMRIPrep and Nilearn. Canadian Trainee Prize recipient talk. 5th Annual Neuro Open Science in Action Symposium. Montreal, QC, Canada.
 
-2023 Hackathon and Early Career Development. Symposim: Open Science - sustainability through success stories. OHBM 2023. Montreal, QC, Canada.
+2023 Hackathon and Early Career Development. Symposium: Open Science - sustainability through success stories. OHBM 2023. Montreal, QC, Canada.
 
 2023 Fantastic open source projects and how to find them. UNIQUE Student Symposium 2023. Montreal, QC, Canada.
 
