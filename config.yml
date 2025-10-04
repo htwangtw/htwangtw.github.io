@@ -84,8 +84,8 @@ params:
         #   url: https://www.youtube.com/@pmichaillat
         # - name: Twitter
         #   url: https://x.com/pmichaillat
-        # - name: Bluesky
-        #   url: https://bsky.app/profile/pmichaillat.bsky.social
+        - name: Bluesky
+          url: https://bsky.app/profile/haotingwang.bsky.social
 
     assets:
         disableScrollBarStyle: true
