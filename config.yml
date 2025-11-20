@@ -58,8 +58,6 @@ params:
               url: about/
             - name: Talks
               url: talks/
-            - name: Resume
-              url: resume_haotingwang_1page.pdf
 
     socialIcons:
         - name: Email
