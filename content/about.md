@@ -25,8 +25,8 @@ I am a recreational Olympic weightlifter, previously affiliated with [Club d'hal
 
 ---
 
-More professional short speaker bio
----
+<details>
+<summary>Short speaker bio (click to expand)</summary>
 
 Last updated: 2026-02-26
 
@@ -35,11 +35,13 @@ Her research focuses on brain encoding and decoding to improve fMRI-based model 
 She is a core developer of Nilearn, a widely used Python library for machine learning in neuroimaging.
 She has contributed to large-scale neuroimaging preprocessing projects involving datasets of over 40,000 participants.
 She is a recipient of the 2023 Neuro-Irv and Helga Cooper Open Science Prize.
-In addition to her research, she is active in education and outreach and is committed to fostering inclusivity in the open science community. 
+In addition to her research, she is active in education and outreach and is committed to fostering inclusivity in the open science community.
 Previously, she co-led workshops for Brainhack School and the Montreal AI and Neuroscience initiative.
 
-Longer speaker bio, see below:
----
+</details>
+
+<details>
+<summary>Long speaker bio (click to expand)</summary>
 
 Last updated: 2026-02-26
 
@@ -58,3 +60,5 @@ Her advocacy for reproducible, BIDS-compliant software led to a fully reproducib
 
 She is a recipient of the 2023 Neuro-Irv and Helga Cooper Open Science Prize.
 In addition to her research, she is active in education and outreach, having co-led workshops for Brainhack School and the Montreal AI and Neuroscience initiative, and is committed to fostering inclusivity in the open science community.
+
+</details>

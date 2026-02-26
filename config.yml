@@ -25,7 +25,7 @@ menu:
 params:
     description: "This website hosts Hao-Ting Wang's research, curriculum vitae, and contact information."
     author: Hao-Ting Wang
-    googleAnalyticsID: "UA-60731918-2"
+    googleAnalyticsID: "G-67F7CXE8TY"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Hao-Ting Wang
-          subtitle: "I am an Assistant Professor in Data Science in the Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada."
+          subtitle: "I am an Assistant Professor in Data Science in the Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada. My research uses AI and fMRI to improve clinical prediction and understand how the brain processes the world."
           imageUrl: "image.png"
           imageWidth: 160
           imageHeight: 160
