@@ -23,7 +23,7 @@ menu:
           weight: 2
 
 params:
-    description: "This website hosts Hao-Ting Wang's research, curriculum vitae, and contact information."
+    description: "This website hosts Hao-Ting Wang's research, CV, and contact information."
     author: Hao-Ting Wang
     googleAnalyticsID: "G-67F7CXE8TY"
     DateFormat: "January 2006"
