@@ -1,13 +1,13 @@
 ---
 title: "Hao-Ting Wang"
-date: 2026-02-26
+date: 2026-03-18
 hidemeta: true
 ---
 
 Short and Sweet ver.
 ---
 
-I am an Assistant Professor in Data Science in the Department of Psychiatry, University of British Columbia, Vancouver, BC, Canada.
+I am an Assistant Professor in Data Science in the Department of Psychiatry and [Djavad Mowafaghian Centre for Brain Health (DMCBH)](https://www.centreforbrainhealth.ca/faculty/hao-ting-wang/), University of British Columbia, Vancouver, BC, Canada.
 Previously I was a [Canadian Neuroanalytics Scholar](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) in
 [laboratory for brain simulation and exploration (SIMEXP)](https://github.com/SIMEXP) 
 at [Montreal Geriatrics Institute (CRIUGM)](https://criugm.qc.ca/), 
@@ -20,7 +20,6 @@ I am passionate about data infrastructure and software engineering in the contex
 You can find out more about my research and open-source contributions on my [GitHub Profile](https://github.com/htwangtw).
 
 When I am not doing research, I spend a lot of time in the kitchen and have a growing collection of knitted garments. 
-I like karaoke.
 I am a recreational Olympic weightlifter, previously affiliated with [Club d'haltérophilie Les Géants de Montréal](https://geantsdemontreal.com/). I am a certified referee in Quebec and am looking for opportunities to volunteer in Western Canada now. 
 
 ---
