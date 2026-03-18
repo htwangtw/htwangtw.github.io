@@ -23,9 +23,9 @@ menu:
           weight: 2
 
 params:
-    description: "This website hosts Hao-Ting Wang's research, curriculum vitae, and contact information."
+    description: "This website hosts Hao-Ting Wang's research, CV, and contact information."
     author: Hao-Ting Wang
-    googleAnalyticsID: "UA-60731918-2"
+    googleAnalyticsID: "G-67F7CXE8TY"
     DateFormat: "January 2006"
     defaultTheme: light
     hideFooter: false
@@ -49,7 +49,7 @@ params:
     profileMode:
           enabled: true
           title: Hao-Ting Wang
-          subtitle: "I am a [Canadian Neuroanalytics Scholar](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) at [CRIUGM](https://criugm.qc.ca/), Montreal, Canada. My current research focuses on neuroinformatics, brain-based biomarkers, and cognitive neuroscience."
+          subtitle: "I am an Assistant Professor in Data Science in the Department of Psychiatry and [Djavad Mowafaghian Centre for Brain Health (DMCBH)](https://www.centreforbrainhealth.ca/faculty/hao-ting-wang/), University of British Columbia, Vancouver, BC, Canada. My research uses AI and fMRI to improve clinical prediction and understand how the brain processes the world."
           imageUrl: "image.png"
           imageWidth: 160
           imageHeight: 160
