@@ -21,6 +21,9 @@ menu:
         - name: Talks
           url: talks/
           weight: 2
+        - name: Cheap MTL food 2024 - 2026
+          url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
+          weight: 3
 
 params:
     description: "This website hosts Hao-Ting Wang's research, CV, and contact information."
@@ -58,7 +61,8 @@ params:
               url: about/
             - name: Talks
               url: talks/
-
+            - name: Cheap MTL food 2024 - 2026
+              url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
     socialIcons:
         - name: Email
           url: mailto:haoting.wang@ubc.ca
