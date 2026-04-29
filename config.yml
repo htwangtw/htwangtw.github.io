@@ -63,6 +63,8 @@ params:
               url: talks/
             - name: Cheap MTL food 2024 - 2026
               url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
+            - name: Vancouver Restaurants Notes
+              url: https://maps.app.goo.gl/QF7xUruddhVHFxiR9
     socialIcons:
         - name: Email
           url: mailto:haoting.wang@ubc.ca
