@@ -59,6 +59,8 @@ params:
           buttons:
             - name: About
               url: about/
+            - name: CODA lab @ UBC
+              url: https://lab-coda.github.io/
             - name: Talks
               url: talks/
             - name: Cheap MTL food 2024 - 2026
