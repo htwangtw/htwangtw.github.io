@@ -5,7 +5,7 @@ hidemeta: true
 ---
 
 
-If you’re interested in hearing me speak at your institution, please contact me through [email](mailto:haotingwang.research@protonmail.com).
+If you’re interested in hearing me speak at your institution, please contact me through [email](mailto:haoting.wang@ubc.ca).
 
 ---
 
