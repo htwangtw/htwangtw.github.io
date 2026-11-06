@@ -11,6 +11,10 @@ If you’re interested in hearing me speak at your institution, please contact m
 
 ## Invited Talks
 
+2026 What do I do in neuroscience and open source software? Women in Computer Science. University of British Columbia, BC, Canada.
+
+2026 Cognitive Neuroscience in the Foundation Model Era: Lessons in Reproducibility. Brainhack Vanderbilt. Online.
+
 2025 Paving the way for brain-first biomarkers research for psychiatry. CRIUGM, Montreal, QC, Canada.
 
 2025 Towards foundation models for cognitive neurosciences. Child Mind Institute, New York, USA.

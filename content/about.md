@@ -7,7 +7,8 @@ hidemeta: true
 Short and Sweet ver.
 ---
 
-I am an Assistant Professor in Data Science in the Department of Psychiatry and [Djavad Mowafaghian Centre for Brain Health (DMCBH)](https://www.centreforbrainhealth.ca/faculty/hao-ting-wang/), University of British Columbia, Vancouver, BC, Canada.
+I am an Assistant Professor in Data Science in the Department of Psychiatry and [Djavad Mowafaghian Centre for Brain Health (DMCBH)](https://www.centreforbrainhealth.ca/faculty/hao-ting-wang/), University of British Columbia, Vancouver, BC, Canada. 
+I lead the [CODA Lab](https://lab-coda.github.io/), which investigates the neurocognitive processes that shape how we experience daily life, and their support and disruption in mental health conditions.
 Previously I was a [Canadian Neuroanalytics Scholar](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/) in
 [laboratory for brain simulation and exploration (SIMEXP)](https://github.com/SIMEXP) 
 at [Montreal Geriatrics Institute (CRIUGM)](https://criugm.qc.ca/), 
@@ -27,9 +28,10 @@ I am a recreational Olympic weightlifter, previously affiliated with [Club d'hal
 <details>
 <summary>Short speaker bio (click to expand)</summary>
 
-Last updated: 2026-02-26
+Last updated: 2026-11-05
 
 Hao-Ting Wang is an Assistant Professor in Data Science in the Department of Psychiatry at the University of British Columbia, Vancouver, BC, Canada, where she works at the intersection of data science, neuroimaging, and psychiatry.
+She is affiliated with the Djavad Mowafaghian Centre for Brain Health and leads the CODA Lab.
 Her research focuses on brain encoding and decoding to improve fMRI-based model prediction in clinical settings, and understanding cognition in naturalistic contexts for transdiagnostic description of psychiatric conditions.
 She is a core developer of Nilearn, a widely used Python library for machine learning in neuroimaging.
 She has contributed to large-scale neuroimaging preprocessing projects involving datasets of over 40,000 participants.
@@ -42,15 +44,15 @@ Previously, she co-led workshops for Brainhack School and the Montreal AI and Ne
 <details>
 <summary>Long speaker bio (click to expand)</summary>
 
-Last updated: 2026-02-26
+Last updated: 2026-11-05
 
 Hao-Ting Wang is an Assistant Professor in Data Science in the Department of Psychiatry at the University of British Columbia, Vancouver, BC, Canada.
+She is affiliated with the Djavad Mowafaghian Centre for Brain Health and leads the [CODA Lab](https://lab-coda.github.io/), which investigates the neurocognitive processes that shape how we experience daily life, and their support and disruption in mental health conditions.
 Her research focuses on brain encoding and decoding to improve fMRI-based model prediction in clinical settings, and understanding cognition in naturalistic contexts for transdiagnostic description of psychiatric conditions.
-She develops and evaluates fMRI foundation models for biomarker discovery in neurodegeneration, integrating diverse clinical datasets to enhance clinical prediction and track disease progression.
 
 Hao-Ting earned her Ph.D. in Cognitive Neuroscience and Neuroimaging from the University of York, United Kingdom, in 2019, under the guidance of Professors Jonathan Smallwood and Elizabeth Jefferies, where she applied multivariate statistical methods to study the neurocognitive foundations of mind wandering using resting-state fMRI and experience sampling.
 Her work provided a comprehensive guide on applying canonical correlation analysis in brain-behaviour association studies, which has garnered over 200 citations since its publication in 2020.
-She subsequently held a postdoctoral position at the Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM), supported by fellowships from the Institut de valorisation des données (IVADO) and the [Canadian Neuroanalytics Scholarship](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/), where she developed fMRI-based approaches for biomarker discovery in neurodegeneration.
+She subsequently held a postdoctoral position at the Centre de recherche de l’Institut universitaire de gériatrie de Montréal (CRIUGM), supported by fellowships from the Institut de valorisation des données (IVADO) and the [Canadian Neuroanalytics Scholarship](https://www.albertaneuro.ca/first-cohort-of-canadian-neuroanalytics-scholars-announced/), where she developed and evaluated fMRI foundation models for biomarker discovery in neurodegeneration, integrating diverse clinical datasets to enhance clinical prediction and track disease progression.
 
 Open-source tools are a cornerstone of her research.
 As a core developer of Nilearn, a widely used Python library for machine learning in neuroimaging, she guides the library’s direction and contributes expertise in fMRI data processing.

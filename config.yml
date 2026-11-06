@@ -21,8 +21,8 @@ menu:
         - name: Talks
           url: talks/
           weight: 2
-        - name: Cheap MTL food 2024 - 2026
-          url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
+        - name: CODA lab @ UBC
+          url: https://lab-coda.github.io/
           weight: 3
 
 params:
@@ -63,10 +63,10 @@ params:
               url: https://lab-coda.github.io/
             - name: Talks
               url: talks/
-            - name: Cheap MTL food 2024 - 2026
-              url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
             - name: Vancouver Food Notes
               url: https://maps.app.goo.gl/QF7xUruddhVHFxiR9
+            - name: Cheap MTL food 2024 - 2026
+              url: https://maps.app.goo.gl/pERFynaAWtoGQkHUA
     socialIcons:
         - name: Email
           url: mailto:haoting.wang@ubc.ca
